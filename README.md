@@ -3,7 +3,8 @@
 In this document we'll cover:
 
 1. What is Node?
-3. When to use Node?
+2. When to use Node?
+3. When not to use Node?
 
 ## What is Node? 
 
