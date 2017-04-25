@@ -30,7 +30,7 @@ T - Time
 
 ## When not to use Node?
 
-Node does not perform well when performing CPU intensive tasks.
+Node does not perform well when executing CPU intensive tasks.
 
 Such as computing Averages, Standard Deviations...
 
